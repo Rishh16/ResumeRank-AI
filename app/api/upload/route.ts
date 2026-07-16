@@ -17,7 +17,7 @@ export async function POST(request: Request) {
     const pythonFormData = new FormData();
     pythonFormData.append("resume", file);
 
-    const response = await fetch("https://resumerank-ai-b0nk.onrender.com", {
+    const response = await fetch("https://resumerank-ai-b0nk.onrender.com/extract", {
       method: "POST",
       body: pythonFormData,
     });
