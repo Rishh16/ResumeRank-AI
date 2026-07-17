@@ -300,7 +300,7 @@ https://github.com/Rishh16
 
 LinkedIn
 
-(Add your LinkedIn profile link)
+https://www.linkedin.com/in/rishika-nakirtha/
 
 ---
 
